@@ -1,4 +1,5 @@
-# Sample Research Papers
+# Sample Research Papers 
+Google Drive Link | **<a href="https://drive.google.com/drive/folders/1jR-xj6GZXOgqGgUSp-i0Sm5IyW4PaChW" target="_blank"> Click Here</a>** 
 
  - 01 - Automated Audio Genre Classification using Ensembled Techniques
  - 02 - Quality assessment of modeled protein structure using physicochemical properties
@@ -7,7 +8,7 @@
  - 05 - Ensemble Technique for Prediction of T‑cell Mycobacterium
  - 06 - Classification of drug molecules for oxidativestress signalling pathway
 
-- Google Drive Link | **<a href="https://drive.google.com/drive/folders/1jR-xj6GZXOgqGgUSp-i0Sm5IyW4PaChW" target="_blank"> Click Here</a>** 
+
 
 ---
 # Other paper sources
