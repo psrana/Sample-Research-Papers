@@ -6,8 +6,5 @@
  - 04-Fraudulent Firm Classification A Case Study of an External Audit
  - 05-Ensemble Technique for Prediction of T‑cell Mycobacterium
  - 06-Classification of drug molecules for oxidativestress signalling pathway
-
-
 ---
-### **Self learning resource**
 - Google Drive Link **<a href="https://drive.google.com/drive/folders/1jR-xj6GZXOgqGgUSp-i0Sm5IyW4PaChW" target="_blank"> Click Here</a>** 
