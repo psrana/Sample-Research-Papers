@@ -9,3 +9,11 @@
 
 ---
 - Google Drive Link | **<a href="https://drive.google.com/drive/folders/1jR-xj6GZXOgqGgUSp-i0Sm5IyW4PaChW" target="_blank"> Click Here</a>** 
+
+---
+# Other paper sources
+ - Papers-with-Code | **<a href="https://paperswithcode.com/" target="_blank"> Click Here</a>** 
+   - Computer Vision (Code, Dataset and Research Papers) | **<a href="https://paperswithcode.com/area/computer-vision" target="_blank"> Click Here</a>** 
+   - Natural Language Processing (Code, Dataset and Research Papers) | **<a href="https://paperswithcode.com/area/natural-language-processing" target="_blank"> Click Here</a>** 
+   - Dataset (Image, Video, Times Series, ECG, EEG, face, etc) | **<a href="https://paperswithcode.com/datasets" target="_blank"> Click Here</a>** 
+ - Research Papers on Al, NLP, Finance, Time Series, CV, Cryptography, Security, etc. | **<a href="https://arxiv.org/archive/cs" target="_blank"> Click Here</a>** 
